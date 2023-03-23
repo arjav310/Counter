@@ -1,2 +1,2 @@
 # Counter
-Simple Counter App
+Simple Counter Application
